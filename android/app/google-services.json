@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439826842018",
+    "firebase_url": "https://covid-19-iot.firebaseio.com",
+    "project_id": "covid-19-iot",
+    "storage_bucket": "covid-19-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439826842018:android:2bf81a205a41f956ef32fb",
+        "android_client_info": {
+          "package_name": "br.com.rafaelbmateus.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439826842018-u4jg8u59rb2b8tl46ohcng1d762hh0n5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.rafaelbmateus.covid19",
+            "certificate_hash": "95d10d579e0a8d2eb4bbe63968eb6b09d6036fed"
+          }
+        },
+        {
+          "client_id": "439826842018-o4hoq8gbl7rr405qgmtnqe5sbl4k8fbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_WKlKYzus_AX46_zuyWvLXLqRK8rstmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439826842018-o4hoq8gbl7rr405qgmtnqe5sbl4k8fbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
